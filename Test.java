@@ -1,6 +1,6 @@
 public static Test{
 
     public static void main()){
-        system.out.println("Test Git DevOps: puch from VSCode")
+        system.out.println("Test Git DevOps: puch from gitApp")
     }
 }                   
